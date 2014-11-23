@@ -31,4 +31,4 @@ run_analysis(directory=.”/” )
 
 #### Arguments
 
-directory String;  set the working directory that is must be the same to the directory where the data files are located. The default is the current working directory.
+directory -> String;  set the working directory that is must be the same to the directory where the data files are located. The default is the current working directory.
